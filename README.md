@@ -36,7 +36,7 @@ The input consists of the following:
  10 3
 72 77 71 71 53 45 53 53 66 70
 79 53 70
-16
+7
 1 2
 1 3
 1 8
